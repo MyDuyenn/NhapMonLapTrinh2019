@@ -1,0 +1,7 @@
+E:\HOC TAP\NMLT\BuoiThucHanh1\BuoiThucHanh1\obj\Debug\BuoiThucHanh1.csprojAssemblyReference.cache
+E:\HOC TAP\NMLT\BuoiThucHanh1\BuoiThucHanh1\obj\Debug\BuoiThucHanh1.csproj.CoreCompileInputs.cache
+E:\HOC TAP\NMLT\BuoiThucHanh1\BuoiThucHanh1\bin\Debug\BuoiThucHanh1.exe.config
+E:\HOC TAP\NMLT\BuoiThucHanh1\BuoiThucHanh1\bin\Debug\BuoiThucHanh1.exe
+E:\HOC TAP\NMLT\BuoiThucHanh1\BuoiThucHanh1\bin\Debug\BuoiThucHanh1.pdb
+E:\HOC TAP\NMLT\BuoiThucHanh1\BuoiThucHanh1\obj\Debug\BuoiThucHanh1.exe
+E:\HOC TAP\NMLT\BuoiThucHanh1\BuoiThucHanh1\obj\Debug\BuoiThucHanh1.pdb
